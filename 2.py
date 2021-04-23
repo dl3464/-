@@ -24,22 +24,38 @@ class NewVisitorTest(unittest.TestCase):#(1)
         )
         # she types "buy peacock features" into a text box(Edith's hobby
         # is tying fly-finishing lures
-        inputbox.send_keys('Buy peacock feathers')
+        #inputbox.send_keys('Buy peacock feathers')
 
         # when she hits enter, the page update ,and new the page lists
         # “1:Buy peacock feathers as an item in a to-do list
         inputbox.send_keys(Keys.ENTER)
-        times.sleep(1)
+        time.sleep(10)
 
         table=self.brower.find_element_by_id('id_list_table')
         rows=table.find_elements_by_tag_name('tr')
-        self.assertTrue(
-            any(row.text=='1:Buy peacock feathers' for row in rows),
-            "New to-do item did not appear in table"
+        
+        self.assertIn('1:Buy peacock feathers',[row.text for row in rows])
+
+        #there is still a text box inviting her to add another items.She
+        #enter "Use peacock feathers to make a fly"(Edith is very methodical)
+        inputbox=self.brower.find_element_by_id('id_new_item')
+        inputbox.send_keys("Use peacock feathers to make a fly")
+        inputbox.send_keys(Keys.ENTER)
+        time.sleep(1)
+
+        #the page updates again,and now shows both items on her list
+        table=self.brower.find_element_by_id('id_list_table')
+        rows=table.find_elements_by_tag_name('tr')
+        self.assertIn('1:Buy peacock feathers',[row.text for row in rows])
+        self.assertIn(
+            '2:User peacock feather to make a fly',
+            [row.text for row in rows]
         )
 
-        # there is still a text box inviting her to add another items.She
-        # enter "Use peacock feathers to make a fly"(Edith is very methodical)
+        #Edith wonders whether the site will remaber her list.Then she sees
+        #that the site has generated a unique URL for her -- there is some
+        #explanatory text to that effect
         self.fail('Finish the test!')#(5)
+
 if __name__=='__main__':#(6)
     unittest.main(warnings='ignore')#(7)
