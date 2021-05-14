@@ -945,3 +945,266 @@ Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpa
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1620969180249	geckodriver	INFO	geckodriver 0.20.1
+1620969180282	geckodriver	INFO	Listening on 127.0.0.1:7221
+1620969182897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.3mhxjG4vng22"
+1620969183768	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+1620969184301	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12780] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2884] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2884] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+1620969187292	Marionette	INFO	Listening on port 7230
+1620969189093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620969189123	Marionette	DEBUG	Register listener.js for window 4294967297
+1620969189157	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1620969189646	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1620969189646	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1620969189653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1620969189667	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+[Parent 12780] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12780] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20728] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20728] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620969191754	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1620969407527	geckodriver	INFO	geckodriver 0.20.1
+1620969407540	geckodriver	INFO	Listening on 127.0.0.1:7405
+1620969410608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.KAVRQMZj82L0"
+1620969411333	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+1620969411729	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18356] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8356] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8356] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620969413017	Marionette	INFO	Listening on port 7414
+1620969413265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620969413296	Marionette	DEBUG	Register listener.js for window 6442450945
+1620969413322	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1620969416368	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1620969416369	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1620969416374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:7404/"
+1620969416381	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:7404/"
+[Parent 18356] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18356] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620969424591	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 3744] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3744] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21092] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21092] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2380] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1620969646623	geckodriver	INFO	geckodriver 0.20.1
+1620969646635	geckodriver	INFO	Listening on 127.0.0.1:7573
+1620969649684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.vUc669oDasdT"
+1620969650308	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+1620969650716	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6980] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+1620969652112	Marionette	INFO	Listening on port 7583
+1620969652249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620969652281	Marionette	DEBUG	Register listener.js for window 4294967297
+1620969652314	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1620969655266	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1620969655266	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1620969655272	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:7572/"
+1620969655279	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:7572/"
+1620969675455	Marionette	INFO	New connections will no longer be accepted
+[Parent 6980] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14924] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6980] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15920] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15920] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620969675541	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7904] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1620970531202	geckodriver	INFO	geckodriver 0.20.1
+1620970531214	geckodriver	INFO	Listening on 127.0.0.1:12700
+1620970534245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.EAOgr8ajUY3B"
+1620970534776	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+1620970535179	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 20652] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17780] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17780] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620970536601	Marionette	INFO	Listening on port 12709
+1620970536797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620970536827	Marionette	DEBUG	Register listener.js for window 4294967297
+1620970536854	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1620970539705	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1620970539705	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1620970539710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:12699/"
+1620970539718	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:12699/"
+1620970540581	Marionette	INFO	New connections will no longer be accepted
+[Child 6592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620970540655	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 3696] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3696] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620970540658	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 13532] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1620970629513	geckodriver	INFO	geckodriver 0.20.1
+1620970629525	geckodriver	INFO	Listening on 127.0.0.1:12805
+1620970632616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.wLc6fKeUsqsR"
+1620970632831	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+1620970633227	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21096] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21096] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620970634549	Marionette	INFO	Listening on port 12814
+1620970634660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620970634700	Marionette	DEBUG	Register listener.js for window 6442450945
+1620970634740	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1620970637773	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1620970637773	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1620970637779	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:12804/"
+1620970637785	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:12804/"
+1620970648079	Marionette	INFO	New connections will no longer be accepted
+[Parent 19112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14236] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14236] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620970648164	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 5908] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5908] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15544] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1620970690727	geckodriver	INFO	geckodriver 0.20.1
+1620970690739	geckodriver	INFO	Listening on 127.0.0.1:12936
+1620970693793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.GijI4mVRlDFX"
+1620970694002	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+1620970694401	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 148] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620970695826	Marionette	INFO	Listening on port 12945
+1620970695842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620970695883	Marionette	DEBUG	Register listener.js for window 4294967297
+1620970695920	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1620970698950	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1620970698950	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1620970698954	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:12935/"
+1620970698961	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:12935/"
+1620970709506	Marionette	INFO	New connections will no longer be accepted
+[Parent 148] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16548] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16548] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620970709589	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 14672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 18580] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1620973136313	geckodriver	INFO	geckodriver 0.20.1
+1620973136325	geckodriver	INFO	Listening on 127.0.0.1:2870
+1620973139403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.33eQMu58VPbq"
+1620973139628	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+1620973140030	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14072] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20312] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20312] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+1620973141432	Marionette	INFO	Listening on port 2879
+1620973141467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620973141502	Marionette	DEBUG	Register listener.js for window 4294967297
+1620973141556	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1620973144556	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1620973144556	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1620973144561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:2869/"
+1620973144568	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:2869/"
+1620973145453	Marionette	INFO	New connections will no longer be accepted
+[Parent 14072] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19076] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19076] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14072] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620973145555	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 19056] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19056] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620973145556	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 17756] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1620973146244	geckodriver	INFO	geckodriver 0.20.1
+1620973146256	geckodriver	INFO	Listening on 127.0.0.1:2934
+1620973149294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile.tRYeuLxgHy0v"
+1620973149501	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+1620973149899	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\DELL\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1652] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620973151264	Marionette	INFO	Listening on port 2943
+1620973151343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620973151382	Marionette	DEBUG	Register listener.js for window 4294967297
+1620973151409	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1620973154415	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1620973154415	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1620973154420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:2869/"
+1620973154427	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:2869/"
+1620973155158	Marionette	INFO	New connections will no longer be accepted
+[Parent 2296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15144] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15144] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620973155249	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 16152] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1620973155253	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15248] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
