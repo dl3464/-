@@ -4,11 +4,16 @@ from django.contrib.staticfiles.testing import StaticLiveServerTestCase
 from selenium.common.exceptions import WebDriverException
 import time
 import unittest
+import os
 MAX_WAIT=10
 
 class NewVisitorTest(StaticLiveServerTestCase):#(1)
     def setUp(self):#(3)
         self.brower = webdriver.Firefox()
+        self.live_server_url='http://118.31.71.247'
+        # staging_server=os.environ.get('STAGING_SERVER')
+        # if staging_server:
+            
 
     def tearDown(self):#(3)
         self.brower.quit()
@@ -65,7 +70,6 @@ class NewVisitorTest(StaticLiveServerTestCase):#(1)
         #Edith wonders whether the site will remaber her list.Then she sees
         #that the site has generated a unique URL for her -- there is some
         #explanatory text to that effect
-        self.fail('Finish the test!')#(5)
         #Satisfied,she goes back to sleep
         
     def test_multiple_users_can_start_lists_at_different_urls(self):
@@ -96,7 +100,7 @@ class NewVisitorTest(StaticLiveServerTestCase):#(1)
         #Francis starts a new list by entering a new list item.He
         #is less interesting than Edith...
         inputbox=self.brower.find_element_by_id('id_new_item')
-        inputbox.send_keys('Buy peacock feathers')
+        inputbox.send_keys('Buy milk')
         inputbox.send_keys(Keys.ENTER)
         self.wait_for_row_in_list_table('1:Buy milk')
 
